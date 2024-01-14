@@ -5,6 +5,3 @@
 
 ### nota 2 - Criando seu primeiro repositório e aprendendo os comandos mais utilizados
 # **75%**
-
-### nota 3 - Trabalhando com branchs
-# **100%**
